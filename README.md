@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fsndzomga
 - 👀 I’m interested in  #startups, #strategy, #analytics, #datascience <= #machinelearning
 - 📫 How to reach me: ndzomgafs@gmail.com
-- Websites I built: www.lycee.ai, votellm.lycee.ai, www.discute.co, www.rimbaud.ai
+- Websites I built: www.lycee.ai, [votellm.lycee.ai](https://votellm.lycee.ai), www.discute.co, www.rimbaud.ai
 
 <!---
 fsndzomga/fsndzomga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
