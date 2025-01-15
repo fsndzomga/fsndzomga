@@ -3,6 +3,7 @@
 - 📫 How to reach me: ndzomgafs@gmail.com
 - Websites I built:
   - www.lycee.ai : To help you learn AI
+  - [handscribe.lycee.ai](https://handscribe.lycee.ai): To help you digitize your handwritten notes using AI
   - [votellm.lycee.ai](https://votellm.lycee.ai): To let AI determine the kind of hypothetical battleground state voter you are
   - [code.lycee.ai](https://code.lycee.ai): To let you experiment with open source coding models for free
   - [datasmith.lycee.ai](https://datasmith.lycee.ai): To let you create synthetic datasets easily
