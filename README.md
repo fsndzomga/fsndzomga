@@ -8,7 +8,6 @@
   - [code.lycee.ai](https://code.lycee.ai): To let you experiment with open source coding models for free
   - [datasmith.lycee.ai](https://datasmith.lycee.ai): To let you create synthetic datasets easily
   - www.discute.co: To chat with your PDFs, TXT, CSV, and DOCX files
-  - www.rimbaud.ai : To improve your writing skills using AI
 
 <!---
 fsndzomga/fsndzomga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
